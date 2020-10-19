@@ -4,3 +4,6 @@ Human resource has become one of the main concerns of managers in almost all typ
 There are several attributes affecting the employee performance. Some of these attributes are personal characteristics, others are educational and finally professional attributes were also considered to predict the employee performance.
 In this project, our aim is to forecast an applicant’s talent based on information filled in the HR application, past experience, and employee reviews and evaluations assessments using Data Mining techniques such as a Random Forest Classifier. 
 So, we have specified certain factors to be considered as attributes for the model, such as, Age, Education level, Performance Rating 1, Performance Rating 2, Performance Rating 3, Performance Rating 4, Building Team Commitment, Strategic Thinking Leads Decision Making and Delivers Results, Analytical Thinking, Customer Relations Service Quality and Planning, Solution Selling In Market Execution, Sales Planning and Forecasting, Negotiation, Actionable Insights, Solving Problems, Engage, Applied Thinking, Change, Drive, Average Comp Score.
+
+
+### Hosted application link: https://mlp9csk.shinyapps.io/PERFORMANCE_PREDICTION/?_ga=2.253854728.1025431563.1603128032-1140325050.1602692543
